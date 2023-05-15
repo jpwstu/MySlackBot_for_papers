@@ -12,6 +12,7 @@ slackbot.pyによってarxivから特定のキーワードで検索した時の�
 - slack-bot.pyのOpenAIのAPIキー、SlackのAPIトークンは自分のものに置き換えてください。
 - SLACK_CHANNELSに投稿先チャンネル名を設定してください。
 - Slackチャンネルにアプリの追加も忘れずに行ってください。
+- 推奨するpythonバージョンは3.10
 
 ## 環境設定手順
 
