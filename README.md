@@ -2,7 +2,7 @@
 
 slackbot.pyによってarxivから特定のキーワードで検索した時の最新の論文をランダムに抽出し、抽出した論文をChatGPTのAPI(gpt-3.5-turbo)によって要約したものをSlackチャンネルに出力
 
-
+Google Cloud Functionに設定し、Schedulerで管理することでSlackに毎日同じ時間に最新の深層学習の論文を要約と共に出力するbotとして活用している。
 
 # Project Setup
 
